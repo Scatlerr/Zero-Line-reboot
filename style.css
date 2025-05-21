@@ -1,0 +1,7 @@
+div {
+    display: none;
+}
+
+.mainMenu {
+    display: flex;
+}
